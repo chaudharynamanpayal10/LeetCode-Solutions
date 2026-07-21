@@ -34,13 +34,19 @@ I will keep updating this repository as I solve more problems.
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0415-add-strings](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0415-add-strings) |
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0415-add-strings](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0415-add-strings) |
 ## Simulation
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0415-add-strings) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
