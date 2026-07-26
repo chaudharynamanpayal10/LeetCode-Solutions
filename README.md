@@ -34,6 +34,7 @@ I will keep updating this repository as I solve more problems.
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0415-add-strings](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0445-add-two-numbers-ii) |
@@ -54,6 +55,7 @@ I will keep updating this repository as I solve more problems.
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
@@ -66,6 +68,7 @@ I will keep updating this repository as I solve more problems.
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 ## Two Pointers
