@@ -36,6 +36,7 @@ I will keep updating this repository as I solve more problems.
 | ------- |
 | [0013-roman-to-integer](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0415-add-strings](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0415-add-strings) |
+| [0445-add-two-numbers-ii](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0445-add-two-numbers-ii) |
 ## String
 |  |
 | ------- |
@@ -59,6 +60,7 @@ I will keep updating this repository as I solve more problems.
 | [0203-remove-linked-list-elements](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
@@ -82,4 +84,8 @@ I will keep updating this repository as I solve more problems.
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+## Stack
+|  |
+| ------- |
+| [0445-add-two-numbers-ii](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0445-add-two-numbers-ii) |
 <!---LeetCode Topics End-->
