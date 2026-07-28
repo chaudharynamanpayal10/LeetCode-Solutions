@@ -92,4 +92,20 @@ I will keep updating this repository as I solve more problems.
 |  |
 | ------- |
 | [0445-add-two-numbers-ii](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0445-add-two-numbers-ii) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
