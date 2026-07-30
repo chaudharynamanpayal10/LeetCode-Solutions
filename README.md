@@ -92,6 +92,7 @@ I will keep updating this repository as I solve more problems.
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0503-next-greater-element-ii](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -100,6 +101,7 @@ I will keep updating this repository as I solve more problems.
 |  |
 | ------- |
 | [0445-add-two-numbers-ii](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0445-add-two-numbers-ii) |
+| [0503-next-greater-element-ii](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 ## Tree
 |  |
 | ------- |
@@ -134,4 +136,8 @@ I will keep updating this repository as I solve more problems.
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0148-sort-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
