@@ -92,11 +92,13 @@ I will keep updating this repository as I solve more problems.
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0503-next-greater-element-ii](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 ## Stack
 |  |
 | ------- |
