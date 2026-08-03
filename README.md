@@ -96,6 +96,7 @@ I will keep updating this repository as I solve more problems.
 | [0033-search-in-rotated-sorted-array](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0054-spiral-matrix](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0136-single-number](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0503-next-greater-element-ii](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
@@ -109,6 +110,7 @@ I will keep updating this repository as I solve more problems.
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0445-add-two-numbers-ii](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0503-next-greater-element-ii](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
@@ -149,6 +151,7 @@ I will keep updating this repository as I solve more problems.
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 ## Bit Manipulation
@@ -159,4 +162,8 @@ I will keep updating this repository as I solve more problems.
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
