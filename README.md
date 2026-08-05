@@ -36,6 +36,7 @@ I will keep updating this repository as I solve more problems.
 | ------- |
 | [0002-add-two-numbers](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+| [0189-rotate-array](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0415-add-strings](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0445-add-two-numbers-ii) |
 ## String
@@ -89,6 +90,7 @@ I will keep updating this repository as I solve more problems.
 | [0061-rotate-list](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0148-sort-list) |
+| [0189-rotate-array](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0876-middle-of-the-linked-list](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Array
@@ -101,6 +103,7 @@ I will keep updating this repository as I solve more problems.
 | [0136-single-number](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0503-next-greater-element-ii](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 ## Binary Search
