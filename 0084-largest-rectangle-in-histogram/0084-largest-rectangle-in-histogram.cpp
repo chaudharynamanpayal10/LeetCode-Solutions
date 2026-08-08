@@ -12,13 +12,6 @@ public:
         //Nearest smaller to right.....
 
         for(int i=n-1; i>=0; i--){
-            if(s1.size()==0){
-                v1.push_back(n);
-            }
-            else if(s1.size()>0 && heights[s1.top()] < heights[i]){
-                v1.push_back(s1.top());
-            }
-            else if(s1.size()>0 && heights[s1.top()] >= heights[i]){
                while(s1.size() && heights[s1.top()] >= heights[i]){
                     s1.pop();
                 }
@@ -28,7 +21,6 @@ public:
                 else{
                     v1.push_back(s1.top());
                 }
-            }
             s1.push(i);
         }
          reverse(v1.begin(),v1.end());
@@ -36,13 +28,6 @@ public:
         //nearest smaller to left....
 
          for(int i=0; i<n; i++){
-            if(s2.size()==0){
-                v2.push_back(-1);
-            }
-            else if(s2.size()>0 && heights[s2.top()] < heights[i]){
-                v2.push_back(s2.top());
-            }
-            else if(s2.size()>0 && heights[s2.top()] >= heights[i]){
                while(s2.size() && heights[s2.top()] >= heights[i]){
               s2.pop();
 }
@@ -52,7 +37,6 @@ public:
                 else{
                     v2.push_back(s2.top());
                 }
-            }
             s2.push(i);
         }
        
