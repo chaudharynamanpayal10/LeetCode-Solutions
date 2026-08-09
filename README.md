@@ -106,6 +106,7 @@ I will keep updating this repository as I solve more problems.
 | [0054-spiral-matrix](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0136-single-number](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0169-majority-element) |
@@ -122,6 +123,7 @@ I will keep updating this repository as I solve more problems.
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0445-add-two-numbers-ii](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0503-next-greater-element-ii](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0844-backspace-string-compare](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
@@ -167,6 +169,7 @@ I will keep updating this repository as I solve more problems.
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0503-next-greater-element-ii](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 ## Bit Manipulation
@@ -177,6 +180,7 @@ I will keep updating this repository as I solve more problems.
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+| [0085-maximal-rectangle](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -197,4 +201,8 @@ I will keep updating this repository as I solve more problems.
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
