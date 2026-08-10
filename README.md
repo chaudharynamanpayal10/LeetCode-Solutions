@@ -43,6 +43,7 @@ I will keep updating this repository as I solve more problems.
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+| [0032-longest-valid-parentheses](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0344-reverse-string](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0415-add-strings](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0844-backspace-string-compare](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
@@ -122,6 +123,7 @@ I will keep updating this repository as I solve more problems.
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0445-add-two-numbers-ii](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0445-add-two-numbers-ii) |
@@ -200,9 +202,11 @@ I will keep updating this repository as I solve more problems.
 ## Bracket Sequences
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
