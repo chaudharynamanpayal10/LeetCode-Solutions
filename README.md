@@ -44,6 +44,7 @@ I will keep updating this repository as I solve more problems.
 | ------- |
 | [0013-roman-to-integer](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0032-longest-valid-parentheses](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0415-add-strings](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0844-backspace-string-compare](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
@@ -60,6 +61,7 @@ I will keep updating this repository as I solve more problems.
 | [0013-roman-to-integer](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 ## Linked List
 |  |
 | ------- |
@@ -171,6 +173,7 @@ I will keep updating this repository as I solve more problems.
 | ------- |
 | [0148-sort-list](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 ## Monotonic Stack
 |  |
 | ------- |
