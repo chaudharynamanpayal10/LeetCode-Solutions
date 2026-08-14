@@ -103,6 +103,7 @@ I will keep updating this repository as I solve more problems.
 | [0143-reorder-list](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0844-backspace-string-compare](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
@@ -119,6 +120,7 @@ I will keep updating this repository as I solve more problems.
 | [0162-find-peak-element](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0503-next-greater-element-ii](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 ## Binary Search
