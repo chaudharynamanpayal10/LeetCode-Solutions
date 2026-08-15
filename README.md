@@ -56,6 +56,7 @@ I will keep updating this repository as I solve more problems.
 | [0054-spiral-matrix](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0415-add-strings](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0844-backspace-string-compare](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
+| [2073-time-needed-to-buy-tickets](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 ## Hash Table
 |  |
 | ------- |
@@ -123,6 +124,7 @@ I will keep updating this repository as I solve more problems.
 | [0283-move-zeroes](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0503-next-greater-element-ii](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
+| [2073-time-needed-to-buy-tickets](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 ## Binary Search
 |  |
 | ------- |
@@ -225,4 +227,8 @@ I will keep updating this repository as I solve more problems.
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+## Queue
+|  |
+| ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
