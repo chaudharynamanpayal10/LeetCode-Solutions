@@ -77,6 +77,7 @@ I will keep updating this repository as I solve more problems.
 | [0023-merge-k-sorted-lists](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0061-rotate-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0092-reverse-linked-list-ii](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0143-reorder-list) |
@@ -104,6 +105,7 @@ I will keep updating this repository as I solve more problems.
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0061-rotate-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0148-sort-list) |
