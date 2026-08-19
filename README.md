@@ -130,6 +130,7 @@ I will keep updating this repository as I solve more problems.
 | [0239-sliding-window-maximum](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0503-next-greater-element-ii](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1019-next-greater-node-in-linked-list](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [2073-time-needed-to-buy-tickets](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 ## Binary Search
@@ -203,6 +204,7 @@ I will keep updating this repository as I solve more problems.
 |  |
 | ------- |
 | [0136-single-number](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0136-single-number) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 ## Matrix
 |  |
 | ------- |
@@ -249,6 +251,7 @@ I will keep updating this repository as I solve more problems.
 | [0232-implement-queue-using-stacks](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [2073-time-needed-to-buy-tickets](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 ## Design
 |  |
@@ -263,8 +266,17 @@ I will keep updating this repository as I solve more problems.
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 <!---LeetCode Topics End-->
