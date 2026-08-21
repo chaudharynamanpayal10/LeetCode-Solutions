@@ -163,6 +163,7 @@ I will keep updating this repository as I solve more problems.
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
+| [2236-root-equals-sum-of-children](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -186,6 +187,7 @@ I will keep updating this repository as I solve more problems.
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
+| [2236-root-equals-sum-of-children](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/2236-root-equals-sum-of-children) |
 ## Divide and Conquer
 |  |
 | ------- |
