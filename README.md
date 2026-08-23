@@ -205,6 +205,7 @@ I will keep updating this repository as I solve more problems.
 | [0023-merge-k-sorted-lists](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -235,6 +236,7 @@ I will keep updating this repository as I solve more problems.
 |  |
 | ------- |
 | [0136-single-number](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 ## Matrix
 |  |
