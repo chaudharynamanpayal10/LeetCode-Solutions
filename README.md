@@ -152,6 +152,7 @@ I will keep updating this repository as I solve more problems.
 | [2073-time-needed-to-buy-tickets](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [3875-construct-uniform-parity-array-i](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -340,6 +341,7 @@ I will keep updating this repository as I solve more problems.
 |  |
 | ------- |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
+| [3903-smallest-stable-index-i](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
 ## Brute-Force Search
 |  |
 | ------- |
