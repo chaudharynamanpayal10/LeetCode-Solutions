@@ -51,6 +51,7 @@ I will keep updating this repository as I solve more problems.
 | [0032-longest-valid-parentheses](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0115-distinct-subsequences](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0205-isomorphic-strings](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0344-reverse-string) |
@@ -305,6 +306,7 @@ I will keep updating this repository as I solve more problems.
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
+| [0115-distinct-subsequences](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0509-fibonacci-number](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
