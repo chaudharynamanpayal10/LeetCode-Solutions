@@ -60,6 +60,7 @@ I will keep updating this repository as I solve more problems.
 | [0451-sort-characters-by-frequency](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0844-backspace-string-compare](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0940-distinct-subsequences-ii](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -308,6 +309,7 @@ I will keep updating this repository as I solve more problems.
 | [0085-maximal-rectangle](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0509-fibonacci-number](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+| [0940-distinct-subsequences-ii](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 ## Memoization
 |  |
 | ------- |
