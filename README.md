@@ -79,6 +79,7 @@ I will keep updating this repository as I solve more problems.
 | [0013-roman-to-integer](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
@@ -149,6 +150,7 @@ I will keep updating this repository as I solve more problems.
 | [0084-largest-rectangle-in-histogram](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0136-single-number](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0169-majority-element) |
@@ -199,6 +201,7 @@ I will keep updating this repository as I solve more problems.
 | [0102-binary-tree-level-order-traversal](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -236,6 +239,7 @@ I will keep updating this repository as I solve more problems.
 | [0102-binary-tree-level-order-traversal](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -249,6 +253,7 @@ I will keep updating this repository as I solve more problems.
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0148-sort-list](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
