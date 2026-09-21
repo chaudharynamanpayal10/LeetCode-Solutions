@@ -126,6 +126,7 @@ I will keep updating this repository as I solve more problems.
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0027-remove-element](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
@@ -141,6 +142,7 @@ I will keep updating this repository as I solve more problems.
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0049-group-anagrams) |
