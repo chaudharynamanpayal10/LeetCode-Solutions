@@ -220,6 +220,7 @@ I will keep updating this repository as I solve more problems.
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0404-sum-of-left-leaves](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/2236-root-equals-sum-of-children) |
@@ -235,6 +236,7 @@ I will keep updating this repository as I solve more problems.
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0404-sum-of-left-leaves](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
@@ -246,6 +248,7 @@ I will keep updating this repository as I solve more problems.
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0112-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0404-sum-of-left-leaves](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
@@ -265,6 +268,7 @@ I will keep updating this repository as I solve more problems.
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0404-sum-of-left-leaves](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/2236-root-equals-sum-of-children) |
