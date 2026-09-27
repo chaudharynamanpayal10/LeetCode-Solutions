@@ -66,6 +66,7 @@ I will keep updating this repository as I solve more problems.
 | [0844-backspace-string-compare](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0940-distinct-subsequences-ii) |
+| [1544-make-the-string-great](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/1544-make-the-string-great) |
 ## Simulation
 |  |
 | ------- |
@@ -204,6 +205,7 @@ I will keep updating this repository as I solve more problems.
 | [0844-backspace-string-compare](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1019-next-greater-node-in-linked-list](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
+| [1544-make-the-string-great](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/1544-make-the-string-great) |
 ## Tree
 |  |
 | ------- |
