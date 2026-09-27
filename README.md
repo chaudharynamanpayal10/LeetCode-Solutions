@@ -184,6 +184,7 @@ I will keep updating this repository as I solve more problems.
 | [0035-search-insert-position](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0162-find-peak-element) |
+| [0222-count-complete-tree-nodes](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0349-intersection-of-two-arrays](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Stack
 |  |
@@ -221,6 +222,7 @@ I will keep updating this repository as I solve more problems.
 | [0144-binary-tree-preorder-traversal](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0404-sum-of-left-leaves](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/2236-root-equals-sum-of-children) |
@@ -269,6 +271,7 @@ I will keep updating this repository as I solve more problems.
 | [0144-binary-tree-preorder-traversal](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0404-sum-of-left-leaves](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/2236-root-equals-sum-of-children) |
@@ -317,6 +320,7 @@ I will keep updating this repository as I solve more problems.
 | [0067-add-binary](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 ## Matrix
 |  |
