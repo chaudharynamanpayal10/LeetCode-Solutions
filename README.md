@@ -67,6 +67,7 @@ I will keep updating this repository as I solve more problems.
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1544-make-the-string-great](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/1544-make-the-string-great) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Simulation
 |  |
 | ------- |
@@ -206,6 +207,7 @@ I will keep updating this repository as I solve more problems.
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1019-next-greater-node-in-linked-list](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1544-make-the-string-great](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/1544-make-the-string-great) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Tree
 |  |
 | ------- |
@@ -357,6 +359,7 @@ I will keep updating this repository as I solve more problems.
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
