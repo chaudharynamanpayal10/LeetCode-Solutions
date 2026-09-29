@@ -419,4 +419,8 @@ I will keep updating this repository as I solve more problems.
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
