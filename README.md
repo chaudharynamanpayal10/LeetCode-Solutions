@@ -54,6 +54,7 @@ I will keep updating this repository as I solve more problems.
 | ------- |
 | [0013-roman-to-integer](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0067-add-binary) |
@@ -360,12 +361,14 @@ I will keep updating this repository as I solve more problems.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
@@ -421,6 +424,7 @@ I will keep updating this repository as I solve more problems.
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0113-path-sum-ii](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
 ## Floyd's Cycle Finding Algorithm
 |  |
