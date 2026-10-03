@@ -232,6 +232,7 @@ I will keep updating this repository as I solve more problems.
 | [0222-count-complete-tree-nodes](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
+| [0700-search-in-a-binary-search-tree](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/2236-root-equals-sum-of-children) |
@@ -285,6 +286,7 @@ I will keep updating this repository as I solve more problems.
 | [0222-count-complete-tree-nodes](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
+| [0700-search-in-a-binary-search-tree](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/2236-root-equals-sum-of-children) |
@@ -435,5 +437,6 @@ I will keep updating this repository as I solve more problems.
 ## Binary Search Tree
 |  |
 | ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
