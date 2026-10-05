@@ -44,6 +44,7 @@ I will keep updating this repository as I solve more problems.
 | [0415-add-strings](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/3871-count-commas-in-range-ii) |
@@ -173,6 +174,7 @@ I will keep updating this repository as I solve more problems.
 | [0283-move-zeroes](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0503-next-greater-element-ii](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
+| [0877-stone-game](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1019-next-greater-node-in-linked-list](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [2073-time-needed-to-buy-tickets](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
@@ -388,6 +390,7 @@ I will keep updating this repository as I solve more problems.
 | [0115-distinct-subsequences](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0509-fibonacci-number](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0877-stone-game](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 ## Memoization
 |  |
@@ -450,4 +453,16 @@ I will keep updating this repository as I solve more problems.
 | [0450-delete-node-in-a-bst](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
