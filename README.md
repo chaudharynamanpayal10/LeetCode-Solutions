@@ -45,6 +45,7 @@ I will keep updating this repository as I solve more problems.
 | [0445-add-two-numbers-ii](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0877-stone-game) |
+| [2396-strictly-palindromic-number](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/2396-strictly-palindromic-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/3871-count-commas-in-range-ii) |
@@ -149,6 +150,7 @@ I will keep updating this repository as I solve more problems.
 | [0844-backspace-string-compare](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2396-strictly-palindromic-number](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/2396-strictly-palindromic-number) |
 ## Array
 |  |
 | ------- |
@@ -465,4 +467,8 @@ I will keep updating this repository as I solve more problems.
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0877-stone-game) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
