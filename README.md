@@ -67,6 +67,7 @@ I will keep updating this repository as I solve more problems.
 | [0451-sort-characters-by-frequency](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1544-make-the-string-great](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/1544-make-the-string-great) |
@@ -209,6 +210,7 @@ I will keep updating this repository as I solve more problems.
 | [0503-next-greater-element-ii](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1019-next-greater-node-in-linked-list](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1544-make-the-string-great](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/1544-make-the-string-great) |
@@ -373,6 +375,7 @@ I will keep updating this repository as I solve more problems.
 | [0022-generate-parentheses](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Dynamic Programming
