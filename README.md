@@ -179,6 +179,7 @@ I will keep updating this repository as I solve more problems.
 | [0877-stone-game](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1019-next-greater-node-in-linked-list](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
+| [1480-running-sum-of-1d-array](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [3483-unique-3-digit-even-numbers](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -430,6 +431,7 @@ I will keep updating this repository as I solve more problems.
 |  |
 | ------- |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
+| [1480-running-sum-of-1d-array](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [3903-smallest-stable-index-i](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Brute-Force Search
