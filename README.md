@@ -491,4 +491,8 @@ I will keep updating this repository as I solve more problems.
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/2396-strictly-palindromic-number) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
