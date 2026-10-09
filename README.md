@@ -61,6 +61,7 @@ I will keep updating this repository as I solve more problems.
 | [0049-group-anagrams](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
@@ -145,6 +146,7 @@ I will keep updating this repository as I solve more problems.
 | [0027-remove-element](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0125-valid-palindrome](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0148-sort-list) |
