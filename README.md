@@ -190,6 +190,7 @@ I will keep updating this repository as I solve more problems.
 | [0503-next-greater-element-ii](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0877-stone-game](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1480-running-sum-of-1d-array](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
@@ -230,6 +231,7 @@ I will keep updating this repository as I solve more problems.
 | [0844-backspace-string-compare](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1544-make-the-string-great](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/1544-make-the-string-great) |
@@ -263,6 +265,7 @@ I will keep updating this repository as I solve more problems.
 | [0701-insert-into-a-binary-search-tree](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2236-root-equals-sum-of-children](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
@@ -327,6 +330,7 @@ I will keep updating this repository as I solve more problems.
 | [0701-insert-into-a-binary-search-tree](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2236-root-equals-sum-of-children](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/2236-root-equals-sum-of-children) |
 ## Divide and Conquer
 |  |
@@ -369,6 +373,7 @@ I will keep updating this repository as I solve more problems.
 | [0084-largest-rectangle-in-histogram](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0503-next-greater-element-ii](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 ## Bit Manipulation
 |  |
@@ -494,6 +499,7 @@ I will keep updating this repository as I solve more problems.
 | [0700-search-in-a-binary-search-tree](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Minimax
 |  |
 | ------- |
