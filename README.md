@@ -47,6 +47,7 @@ I will keep updating this repository as I solve more problems.
 | [0877-stone-game](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [2396-strictly-palindromic-number](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/2396-strictly-palindromic-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -415,6 +416,7 @@ I will keep updating this repository as I solve more problems.
 | [0678-valid-parenthesis-string](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Bracket Sequences
 |  |
