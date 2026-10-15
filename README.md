@@ -105,6 +105,7 @@ I will keep updating this repository as I solve more problems.
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Linked List
 |  |
@@ -196,6 +197,7 @@ I will keep updating this repository as I solve more problems.
 | [1480-running-sum-of-1d-array](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -540,4 +542,12 @@ I will keep updating this repository as I solve more problems.
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
