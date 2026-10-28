@@ -199,6 +199,7 @@ I will keep updating this repository as I solve more problems.
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -224,6 +225,7 @@ I will keep updating this repository as I solve more problems.
 | [0222-count-complete-tree-nodes](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0349-intersection-of-two-arrays](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Stack
 |  |
@@ -407,6 +409,7 @@ I will keep updating this repository as I solve more problems.
 | ------- |
 | [0054-spiral-matrix](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0085-maximal-rectangle](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
