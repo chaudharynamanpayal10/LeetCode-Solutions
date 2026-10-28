@@ -203,6 +203,7 @@ I will keep updating this repository as I solve more problems.
 | [1480-running-sum-of-1d-array](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -227,6 +228,7 @@ I will keep updating this repository as I solve more problems.
 | [0350-intersection-of-two-arrays-ii](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Stack
 |  |
 | ------- |
@@ -422,6 +424,7 @@ I will keep updating this repository as I solve more problems.
 | [0387-first-unique-character-in-a-string](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
