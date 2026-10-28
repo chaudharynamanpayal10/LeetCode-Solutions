@@ -42,6 +42,7 @@ I will keep updating this repository as I solve more problems.
 | [0067-add-binary](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
@@ -103,6 +104,7 @@ I will keep updating this repository as I solve more problems.
 | [0217-contains-duplicate](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -193,6 +195,7 @@ I will keep updating this repository as I solve more problems.
 | [0217-contains-duplicate](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -231,6 +234,7 @@ I will keep updating this repository as I solve more problems.
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0704-binary-search) |
@@ -396,6 +400,7 @@ I will keep updating this repository as I solve more problems.
 | [0169-majority-element](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -420,6 +425,7 @@ I will keep updating this repository as I solve more problems.
 | [0136-single-number](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 ## Matrix
 |  |
