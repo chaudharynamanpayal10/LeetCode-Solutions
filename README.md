@@ -195,6 +195,7 @@ I will keep updating this repository as I solve more problems.
 | [0350-intersection-of-two-arrays-ii](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0503-next-greater-element-ii](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
+| [0704-binary-search](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -226,6 +227,7 @@ I will keep updating this repository as I solve more problems.
 | [0222-count-complete-tree-nodes](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0349-intersection-of-two-arrays](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0704-binary-search](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
