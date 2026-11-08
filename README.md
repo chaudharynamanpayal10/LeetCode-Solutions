@@ -618,4 +618,8 @@ I will keep updating this repository as I solve more problems.
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0069-sqrtx) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
