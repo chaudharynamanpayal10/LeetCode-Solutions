@@ -86,6 +86,7 @@ I will keep updating this repository as I solve more problems.
 | [1544-make-the-string-great](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Simulation
 |  |
 | ------- |
