@@ -162,6 +162,7 @@ I will keep updating this repository as I solve more problems.
 | [0027-remove-element](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0088-merge-sorted-array](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0143-reorder-list) |
@@ -195,6 +196,7 @@ I will keep updating this repository as I solve more problems.
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -420,6 +422,7 @@ I will keep updating this repository as I solve more problems.
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
