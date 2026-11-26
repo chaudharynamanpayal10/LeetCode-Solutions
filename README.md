@@ -193,6 +193,7 @@ I will keep updating this repository as I solve more problems.
 | [0054-spiral-matrix](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
@@ -451,6 +452,7 @@ I will keep updating this repository as I solve more problems.
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
@@ -568,6 +570,7 @@ I will keep updating this repository as I solve more problems.
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/chaudharynamanpayal10/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 ## Floyd's Cycle Finding Algorithm
